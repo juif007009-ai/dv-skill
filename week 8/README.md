@@ -64,4 +64,4 @@ This project provides a simple visualization-based analysis of student performan
 
 ##  Author
 
-**Brajesh Sheguware**
+**Jude **
